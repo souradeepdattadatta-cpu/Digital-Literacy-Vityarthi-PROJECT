@@ -52,7 +52,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdFJbmvGmq71nmEImeftZ4ojwuCymKH3jq2CDKy
 ---
 
 ## 📁 Repository Contents
-- task-1-presentation/  
+- task-1-presentation/ 
 - task-2-portfolio/  
 - task-3-platforms/  
 - task-4-email-etiquette/  
